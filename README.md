@@ -22,27 +22,11 @@ These insights assist the business in making data-driven strategic decisions.
 **🛠 Programming Language & Libraries:**  
 `Python`, `Pandas`, `Matplotlib`, `Seaborn`
 
-📂 **File:** `Retail_sales_P1`
+📂 **Dataset File:** `retail_sales_dataset`
 
 ---
 
-### 👥 2: Customer Segmentation Analysis `L1_P2`
-
-**📌 Description:**  
-This project performs customer segmentation to discover distinct customer groups based on their buying patterns and demographics. The outcome helps businesses:
-
-- Design personalized marketing strategies  
-- Improve customer satisfaction  
-- Enhance overall performance
-
-**🛠 Programming Language & Libraries:**  
-`Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`
-
-📂 **Folder:** `L1_P2_CustomerSegmentation`
-
----
-
-### 🏙️ 3: New York Airbnb - Data Cleaning Project `L1_P3`
+### 🏙️ 2: New York Airbnb - Data Cleaning Project `NYC_P2`
 
 **📌 Description:**  
 This project involves cleaning a New York Airbnb dataset to ensure high data quality for analysis and modeling. Key cleaning steps include:
@@ -55,7 +39,23 @@ This project involves cleaning a New York Airbnb dataset to ensure high data qua
 **🛠 Programming Language & Libraries:**  
 `Python`, `Pandas`, `NumPy`
 
-📂 **Folder:** `L1_P3_NYAirbnb_DataCleaning`
+📂 **Dataset File:** `AB_NYC_2019`
+
+---
+### 🏡 3: House Price Prediction with Linear Regression `Housing_Predection_P3`
+
+**📌 Description:**  
+This project aims to build a predictive model using **Linear Regression** to forecast house prices based on key features in the dataset. It focuses on:
+
+- Data preprocessing  
+- Model training  
+- Performance evaluation  
+- Interpretation of results
+
+**🛠 Programming Language & Libraries:**  
+`Python`, `Pandas`, `Scikit-Learn`, `Matplotlib`, `Seaborn`
+
+📂 **Dataset File:** `Housing`
 
 ---
 
